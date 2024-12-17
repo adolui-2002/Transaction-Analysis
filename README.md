@@ -1,7 +1,6 @@
 # Transaction-Analysis
 
-The uploaded Excel file contains the following sheets:
- 1. Dashboard 2. Pivot1 3. Pivot2 4. Pivot3 5. Pivot4 6. Pivot5 7. Data
+The uploaded Excel file contains the following sheets:-1. Dashboard 2. Pivot1 3. Pivot2 4. Pivot3 5. Pivot4 6. Pivot5 7. Data
 1. Pivot1: Profit by Payment Mode
        Cash transactions contribute the highest profit: 9,013,666.
        Credit Card and Bank Transfer follow with 5,030,165 and 3,629,433 respectively.
